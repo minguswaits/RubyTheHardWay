@@ -1,0 +1,8 @@
+Function starts def
+Function name can only have characters and underscore
+Open Parenthesis after function name
+arguments separated by commas after parenthesis
+Each argument must be unique
+Close parenthesis
+Indent two spaces
+close function with 'end'
